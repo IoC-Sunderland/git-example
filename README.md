@@ -1,4 +1,4 @@
 Git-Example
 ===========
 
-Added this line locally!
+Amended this line locally!
